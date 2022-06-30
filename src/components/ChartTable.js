@@ -15,6 +15,7 @@ function ChartTable({songs}) {
         <th>Title</th>
         <th>Artist</th>
         <th>Genre</th>
+        <th>Preview</th>
       </tr>
       {songNodes}
     </table>
